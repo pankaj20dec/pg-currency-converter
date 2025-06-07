@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Currency converter",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "npm test"
   },
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/pankaj20dec/pg-currency-converter/issues"
   },
-  "homepage": "https://github.com/pankaj20dec/pg-currency-converter#readme"
+  "homepage": "https://github.com/pankaj20dec/pg-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
 }
