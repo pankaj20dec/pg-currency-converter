@@ -1,0 +1,22 @@
+{
+  "name": "pg-currency-converter",
+  "version": "1.0.0",
+  "description": "Currency converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pankaj20dec/pg-currency-converter.git"
+  },
+  "keywords": [
+    "converter"
+  ],
+  "author": "Pankaj Gupta",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pankaj20dec/pg-currency-converter/issues"
+  },
+  "homepage": "https://github.com/pankaj20dec/pg-currency-converter#readme"
+}
